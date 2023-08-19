@@ -37,6 +37,8 @@
 
 <hr>
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=virentanti&theme=radical)](https://git.io/streak-stats)
 
-![Viren's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
+
+![Viren's GitHub stats](https://github-readme-stats.vercel.app/api?username=virentanti&theme=radical&show_icons=true)
